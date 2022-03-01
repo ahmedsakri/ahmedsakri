@@ -25,8 +25,8 @@ Enthusiastic Web Developer who loves to create effective websites and work with 
 <p>So, this list will be uniformly updated as I never stop learning.</p>
 <br>
 
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=for-the-badge&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=for-the-badge&logo=ethereum&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-BitCoin-informational?style=for-the-badge&logo=bitcoin&color=3bac3a)
+![](https://img.shields.io/badge/Network-Ethereum-informational?style=for-the-badge&logo=ethereum&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=3bac3a)
