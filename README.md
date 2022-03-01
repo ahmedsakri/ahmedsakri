@@ -10,7 +10,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
  <br><br></h1>
 <p align="center">
- <a href="https://app.daily.dev/ahmedsakri"><img src="https://github.com/ahmedsakri/ahmedsakri/blob/main/devcard.svg" width="400" alt="Ahmed Sakri's Dev Card"/></a>
+ <a href="https://app.daily.dev/ahmedsakri"><img src="https://github.com/ahmedsakri/ahmedsakri/blob/master/devcard.svg" width="400" alt="Ahmed Sakri's Dev Card"/></a>
 </p>
 </br>
 <h3 align="center">⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.⭐⭐⭐⭐⭐</h3><br>
