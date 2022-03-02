@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - master
   schedule:
     - cron: "0 0 * * *"
 
@@ -15,4 +15,4 @@ jobs:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
         with:
-          devcard_id: 606f5a8d3296425bb211a0be9d0abf63
+          devcard_id: f94791cc8bc54e94bb5bd2467c3b03c3
