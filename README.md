@@ -25,20 +25,14 @@ Enthusiastic Web Developer who loves to create effective websites and work with 
 <p>So, this list will be uniformly updated as I never stop learning.</p>
 <br>
 
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=for-the-badge&logo=bitcoin&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=for-the-badge&logo=ethereum&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=react&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=for-the-badge&logo=vue.js&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Electron-informational?style=for-the-badge&logo=electron&color=3bac3a)
-![](https://img.shields.io/badge/Framework-React_Native-informational?style=for-the-badge&logo=react&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Quasar-informational?style=for-the-badge&logo=quasar&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Native_Script-informational?style=for-the-badge&logo=nativescript&color=3bac3a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=for-the-badge&logo=javascript&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=for-the-badge&logo=typescript&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=for-the-badge&logo=github&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=for-the-badge&logo=jenkins&color=3bac3a)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=mysql&color=3bac3a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&color=3bac3a)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=apple&color=3bac3a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&color=3bac3a)
@@ -76,9 +70,6 @@ Alone we can do so little; together we can do so much.
 <hr>
 <br>
 <p align="center">
-  <a href="https://angular.io" target="_blank">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="25"/>
-  </a>
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="25"/>
   </a> 
@@ -90,9 +81,6 @@ Alone we can do so little; together we can do so much.
   </a> 
   <a href="https://d3js.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" height="25"/>
-  </a>
-  <a href="https://www.electronjs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" height="25"/>
   </a>
   <a href="https://expressjs.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="25"/>
@@ -136,29 +124,17 @@ Alone we can do so little; together we can do so much.
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="25"/>
   </a>
-  <a href="https://nuxtjs.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" height="25"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="25"/>
-  </a>
   <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="25"/>
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="25"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="25"/>
-  </a>
   <a href="https://redux.js.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="25"/>
   </a>
   <a href="https://sass-lang.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="25"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="25"/>
   </a>
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="25"/>
