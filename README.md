@@ -1,60 +1,92 @@
-<h1 align="center">Hi, I'm Ahmed Sakri</h1>
-<p align="center"><strong>Web developer · Building apps and browser games · Mumbai, India</strong></p>
+<a href="https://ahmedsakri.netlify.app/">
+  <img src="assets/ahmed-sakri-banner.png" width="100%" alt="Ahmed Sakri — Web developer in Mumbai, India. Building with AppsOverFlow." />
+</a>
+
 <p align="center">
-  <a href="https://ahmedsakri.netlify.app/">Portfolio</a> ·
-  <a href="https://github.com/ahmedsakri?tab=repositories">Public repositories</a> ·
-  <a href="https://app.daily.dev/ahmedsakri">daily.dev</a>
+  <b>Web applications. Cooperative games. Thoughtful details.</b><br />
+  I build interactive experiences and keep improving how they look, feel, and perform.
 </p>
 
-## About me
+<p align="center">
+  <a href="https://ahmedsakri.netlify.app/"><img src="assets/badges/portfolio.svg" height="28" alt="Visit my portfolio" /></a>
+  <a href="https://github.com/ahmedsakri?tab=repositories"><img src="assets/badges/repositories.svg" height="28" alt="Explore my code" /></a>
+  <a href="https://app.daily.dev/ahmedsakri"><img src="assets/badges/daily-dev.svg" height="28" alt="Follow me on daily.dev" /></a>
+</p>
 
-I build web applications and interactive experiences, from responsive interfaces and APIs to cooperative browser games. My current product work is under **AppsOverFlow**.
+## A little about me
 
-I care about the details people feel when they use a product: clear navigation, comfortable controls, readable interfaces, responsive layouts, and reliable performance. I also work on the foundations behind them—maintainable code, testing, analytics, and search-friendly content.
+I'm **Ahmed**, a web developer based in **Mumbai, India**. My current product work is under **AppsOverFlow**, spanning responsive interfaces, APIs, and browser games.
 
-## What I'm building
+I care about clear navigation, comfortable controls, reliable performance, and the engineering behind them. I enjoy turning user feedback into improvements people can actually feel.
 
-### Fireboy and Watergirl · AppsOverFlow
+## Featured project · Fireboy and Watergirl
 
-A cooperative puzzle game with seven themed campaigns, same-device play, and online multiplayer. Players work together to solve mechanisms and reach both exits.
+<a href="https://fireboy-watergirl-game.web.app/">
+  <img src="assets/fireboy-watergirl.png" width="100%" alt="Fireboy and Watergirl — an AppsOverFlow cooperative puzzle game with seven campaigns and online co-op" />
+</a>
 
-My current work includes:
+**Two players. Seven campaigns. One shared adventure.**
 
-- Touch and joystick controls for phones and tablets, alongside keyboard controls.
-- Real-time multiplayer responsiveness and consistent gameplay across devices.
-- Room mechanisms, completion-checked routes, and useful written walkthroughs.
-- Character movement, sound, liquid effects, and clearer game interfaces.
-- Loading performance, semantic pages, SEO, analytics, and privacy choices.
+An independent cooperative puzzle game with same-device play and online multiplayer. My current work includes touch joysticks, multiplayer responsiveness, room mechanisms, verified walkthroughs, liquid effects, audio, loading performance, SEO, and privacy choices.
 
-The game is actively being improved, including rooms that are still in development.
+The game is actively being improved; some rooms are still in development.
 
-**[Play the game →](https://fireboy-watergirl-game.web.app/)**
+<p>
+  <a href="https://fireboy-watergirl-game.web.app/"><img src="assets/badges/play-game.svg" height="28" alt="Play Fireboy and Watergirl" /></a>
+</p>
 
-## Technologies I work with
+## My toolkit
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS, and Sass.
-- **Frontend:** Vue, React, Quasar, Vuetify, Redux, and Gatsby.
-- **Backend and data:** Node.js, Express, MongoDB, Firebase, and REST APIs.
-- **Quality and delivery:** Git, GitHub Actions, Jenkins, Docker, AWS, Jest, Mocha, and Playwright.
-- **Design and development tools:** Figma, Postman, and browser developer tools.
+**Interfaces**
 
-## Selected public repositories
+<p>
+  <img src="assets/badges/javascript.svg" height="28" alt="JavaScript" />
+  <img src="assets/badges/typescript.svg" height="28" alt="TypeScript" />
+  <img src="assets/badges/vue.svg" height="28" alt="Vue.js" />
+  <img src="assets/badges/react.svg" height="28" alt="React" />
+</p>
 
-- **[oidc-vue](https://github.com/ahmedsakri/oidc-vue)** — Vue and Vue Router integration for OpenID Connect authentication using `oidc-client-js`.
-- **[crud-swagger](https://github.com/ahmedsakri/crud-swagger)** — A CRUD API project with Swagger documentation.
-- **[aspire-checkout](https://github.com/ahmedsakri/aspire-checkout)** — A Vue frontend implementation of a checkout interface.
-- **[css-battle-solutions](https://github.com/ahmedsakri/css-battle-solutions)** — CSS drawing exercises focused on recreating designs with fewer HTML elements.
-- **[jupiter](https://github.com/ahmedsakri/jupiter)** — A JavaScript visual experiment inspired by Jupiter.
-- **[Netflix-Clone](https://github.com/ahmedsakri/Netflix-Clone)** — A static HTML/CSS website recreation.
+**APIs & data**
 
-## How I approach development
+<p>
+  <img src="assets/badges/node.svg" height="28" alt="Node.js" />
+  <img src="assets/badges/express.svg" height="28" alt="Express" />
+  <img src="assets/badges/mongodb.svg" height="28" alt="MongoDB" />
+  <img src="assets/badges/firebase.svg" height="28" alt="Firebase" />
+</p>
 
-- Build interfaces that work across screen sizes and input methods.
-- Use semantic markup and pay attention to accessibility and performance.
-- Verify behavior with focused tests and browser checks.
-- Keep communication clear and iterate on real user feedback.
-- Keep learning, simplifying, and improving what I ship.
+**Design & delivery**
 
-## Connect
+<p>
+  <img src="assets/badges/docker.svg" height="28" alt="Docker" />
+  <img src="assets/badges/github-actions.svg" height="28" alt="GitHub Actions" />
+  <img src="assets/badges/jest.svg" height="28" alt="Jest" />
+  <img src="assets/badges/figma.svg" height="28" alt="Figma" />
+</p>
 
-Find my work on **[my portfolio](https://ahmedsakri.netlify.app/)**, browse **[my GitHub repositories](https://github.com/ahmedsakri?tab=repositories)**, or follow what I'm reading on **[daily.dev](https://app.daily.dev/ahmedsakri)**.
+<details>
+<summary><b>More technologies I work with</b></summary>
+
+HTML, CSS, Sass, Quasar, Vuetify, Redux, Gatsby, REST APIs, AWS, Jenkins, Mocha, Playwright, and Postman.
+
+</details>
+
+## Explore my public work
+
+| Project | What it explores |
+| :--- | :--- |
+| **[oidc-vue](https://github.com/ahmedsakri/oidc-vue)** | OpenID Connect authentication for Vue and Vue Router. |
+| **[crud-swagger](https://github.com/ahmedsakri/crud-swagger)** | A CRUD API with Swagger documentation. |
+| **[aspire-checkout](https://github.com/ahmedsakri/aspire-checkout)** | A checkout interface built with Vue. |
+| **[css-battle-solutions](https://github.com/ahmedsakri/css-battle-solutions)** | CSS drawing challenges with minimal HTML. |
+| **[jupiter](https://github.com/ahmedsakri/jupiter)** | A JavaScript visual experiment inspired by Jupiter. |
+| **[Netflix-Clone](https://github.com/ahmedsakri/Netflix-Clone)** | A static HTML/CSS website recreation. |
+
+---
+
+<p align="center">
+  <b>Thanks for stopping by.</b><br />
+  <a href="https://ahmedsakri.netlify.app/">Portfolio</a> ·
+  <a href="https://github.com/ahmedsakri?tab=repositories">Projects</a> ·
+  <a href="https://app.daily.dev/ahmedsakri">What I'm reading</a>
+</p>
